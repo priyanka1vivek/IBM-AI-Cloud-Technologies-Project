@@ -38,10 +38,11 @@ To test a broader category:
 
 Can you find me something on business or entrepreneurship?
 
-To simulate a syllabus query:
-
-My course covers machine learning, algorithms, and artificial intelligence.
-
 To test its knowledge boundary:
 
 Do you have any books on astrophysics? (The agent should correctly state that it has no matching books).
+
+Result: 
+<img width="1915" height="904" alt="test_screenshot" src="https://github.com/user-attachments/assets/d5ffe780-b7a9-4158-b2e5-cc4c3766349b" />
+<img width="1908" height="886" alt="deployment_screenshot" src="https://github.com/user-attachments/assets/9f08b121-facd-499b-b72a-0cd33afd9612" />
+
